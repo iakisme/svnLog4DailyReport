@@ -1,0 +1,1 @@
+# svnLog4DailyReport
